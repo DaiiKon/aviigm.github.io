@@ -1,0 +1,35 @@
+.row.content {height: 1500px}
+      .sidenav {
+        background-color: #f1f1f1;
+        height: 100%;
+      }
+      footer {
+        background-color: rgb(85, 85, 85);
+        color: rgb(255, 255, 255);
+        padding: 15px;
+      }
+      @media screen and (max-width: 767px) {
+        .sidenav {
+          height: auto;
+          padding: 15px;
+        }
+        .row.content {height: auto;} 
+      }
+
+.angel{
+    text-align: center;
+    text-justify: inter-word;
+    text-orientation: mixed;
+}
+
+.bruja{
+    text-align: center;
+    text-justify: inter-word;
+    text-orientation: mixed;
+}
+
+.miwa{
+    text-align: center;
+    text-justify: inter-word;
+    text-orientation: mixed;
+}
